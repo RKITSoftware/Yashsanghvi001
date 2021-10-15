@@ -1,0 +1,6 @@
+C:\Users\yashs\Desktop\module 2\Code\Loops\ForEachLoop\ForEachLoop\bin\Debug\ForEachLoop.exe.config
+C:\Users\yashs\Desktop\module 2\Code\Loops\ForEachLoop\ForEachLoop\bin\Debug\ForEachLoop.exe
+C:\Users\yashs\Desktop\module 2\Code\Loops\ForEachLoop\ForEachLoop\bin\Debug\ForEachLoop.pdb
+C:\Users\yashs\Desktop\module 2\Code\Loops\ForEachLoop\ForEachLoop\obj\Debug\ForEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\yashs\Desktop\module 2\Code\Loops\ForEachLoop\ForEachLoop\obj\Debug\ForEachLoop.exe
+C:\Users\yashs\Desktop\module 2\Code\Loops\ForEachLoop\ForEachLoop\obj\Debug\ForEachLoop.pdb
