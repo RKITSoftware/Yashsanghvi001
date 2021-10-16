@@ -10,20 +10,16 @@ namespace Methods
     {
         static void Main(string[] args)
         {
-            circle c = new circle(); // value type parameter 
+            circle ObjCircle = new circle(); // value type parameter 
             int number = 10;
-            int ans = c.aera(number);
+            int ans = ObjCircle.aera(number);
             Console.WriteLine("Aera Of Circle is " + ans);
 
-        program p = new program();
+        program ObjProgram = new program();
          int num1 = 10;
          int num2 = 20;
 
-        p.display(num1, num2);//num3 is Optional Parameter
-
-
-
-
+        ObjProgram.display(num1, num2);//num3 is Optional Parameter
 
             Console.Read();
         }
