@@ -1,0 +1,6 @@
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\NonGenericCollections\StackDemo\StackDemo\obj\Debug\StackDemo.csproj.CoreCompileInputs.cache
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\NonGenericCollections\StackDemo\StackDemo\bin\Debug\StackDemo.exe.config
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\NonGenericCollections\StackDemo\StackDemo\bin\Debug\StackDemo.exe
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\NonGenericCollections\StackDemo\StackDemo\bin\Debug\StackDemo.pdb
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\NonGenericCollections\StackDemo\StackDemo\obj\Debug\StackDemo.exe
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\NonGenericCollections\StackDemo\StackDemo\obj\Debug\StackDemo.pdb

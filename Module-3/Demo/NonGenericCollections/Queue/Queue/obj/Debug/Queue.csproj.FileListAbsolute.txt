@@ -1,0 +1,7 @@
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\NonGenericCollections\Queue\Queue\bin\Debug\Queue.exe.config
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\NonGenericCollections\Queue\Queue\bin\Debug\Queue.exe
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\NonGenericCollections\Queue\Queue\bin\Debug\Queue.pdb
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\NonGenericCollections\Queue\Queue\obj\Debug\Queue.csproj.AssemblyReference.cache
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\NonGenericCollections\Queue\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\NonGenericCollections\Queue\Queue\obj\Debug\Queue.exe
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\NonGenericCollections\Queue\Queue\obj\Debug\Queue.pdb
