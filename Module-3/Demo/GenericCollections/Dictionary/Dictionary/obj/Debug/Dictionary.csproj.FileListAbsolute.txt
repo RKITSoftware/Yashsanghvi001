@@ -1,0 +1,7 @@
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.AssemblyReference.cache
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\Dictionary\Dictionary\obj\Debug\Dictionary.pdb

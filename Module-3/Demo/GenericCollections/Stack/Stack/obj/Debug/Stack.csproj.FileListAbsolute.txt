@@ -1,0 +1,7 @@
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\Stack\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\Stack\Stack\obj\Debug\Stack.pdb

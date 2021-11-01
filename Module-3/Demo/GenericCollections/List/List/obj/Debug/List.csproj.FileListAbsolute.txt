@@ -1,0 +1,7 @@
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\List\List\bin\Debug\List.exe.config
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\List\List\bin\Debug\List.exe
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\List\List\bin\Debug\List.pdb
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\List\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\List\List\obj\Debug\List.exe
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\List\List\obj\Debug\List.pdb

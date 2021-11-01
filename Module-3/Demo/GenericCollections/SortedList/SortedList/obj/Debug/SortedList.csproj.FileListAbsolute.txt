@@ -1,0 +1,7 @@
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\SortedList\SortedList\bin\Debug\SortedList.exe.config
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\SortedList\SortedList\bin\Debug\SortedList.exe
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\SortedList\SortedList\bin\Debug\SortedList.pdb
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\SortedList\SortedList\obj\Debug\SortedList.csproj.AssemblyReference.cache
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\SortedList\SortedList\obj\Debug\SortedList.csproj.CoreCompileInputs.cache
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\SortedList\SortedList\obj\Debug\SortedList.exe
+C:\Users\yashs\Desktop\Module-3\Demo\Collections\GenericCollections\SortedList\SortedList\obj\Debug\SortedList.pdb
