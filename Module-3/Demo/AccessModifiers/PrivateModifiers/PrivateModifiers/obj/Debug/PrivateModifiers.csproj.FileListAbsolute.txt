@@ -1,7 +1,0 @@
-C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\PrivateModifiers\PrivateModifiers\bin\Debug\PrivateModifiers.exe.config
-C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\PrivateModifiers\PrivateModifiers\bin\Debug\PrivateModifiers.exe
-C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\PrivateModifiers\PrivateModifiers\bin\Debug\PrivateModifiers.pdb
-C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\PrivateModifiers\PrivateModifiers\obj\Debug\PrivateModifiers.csproj.AssemblyReference.cache
-C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\PrivateModifiers\PrivateModifiers\obj\Debug\PrivateModifiers.csproj.CoreCompileInputs.cache
-C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\PrivateModifiers\PrivateModifiers\obj\Debug\PrivateModifiers.exe
-C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\PrivateModifiers\PrivateModifiers\obj\Debug\PrivateModifiers.pdb

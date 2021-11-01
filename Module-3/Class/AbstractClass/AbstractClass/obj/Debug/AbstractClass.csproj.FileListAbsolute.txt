@@ -1,7 +1,0 @@
-C:\Users\yashs\Desktop\Module-3\Demo\Class\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
-C:\Users\yashs\Desktop\Module-3\Demo\Class\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
-C:\Users\yashs\Desktop\Module-3\Demo\Class\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
-C:\Users\yashs\Desktop\Module-3\Demo\Class\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.AssemblyReference.cache
-C:\Users\yashs\Desktop\Module-3\Demo\Class\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
-C:\Users\yashs\Desktop\Module-3\Demo\Class\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
-C:\Users\yashs\Desktop\Module-3\Demo\Class\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb

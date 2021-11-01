@@ -1,7 +1,0 @@
-C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\InternalModifiers\InternalModifiers\bin\Debug\InternalModifiers.exe.config
-C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\InternalModifiers\InternalModifiers\bin\Debug\InternalModifiers.exe
-C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\InternalModifiers\InternalModifiers\bin\Debug\InternalModifiers.pdb
-C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\InternalModifiers\InternalModifiers\obj\Debug\InternalModifiers.csproj.AssemblyReference.cache
-C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\InternalModifiers\InternalModifiers\obj\Debug\InternalModifiers.csproj.CoreCompileInputs.cache
-C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\InternalModifiers\InternalModifiers\obj\Debug\InternalModifiers.exe
-C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\InternalModifiers\InternalModifiers\obj\Debug\InternalModifiers.pdb
