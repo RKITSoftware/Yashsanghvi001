@@ -1,0 +1,6 @@
+C:\Users\yashs\Desktop\Module-3\Demo\PropertiesDemo\PropertiesDemo\bin\Debug\PropertiesDemo.exe.config
+C:\Users\yashs\Desktop\Module-3\Demo\PropertiesDemo\PropertiesDemo\bin\Debug\PropertiesDemo.exe
+C:\Users\yashs\Desktop\Module-3\Demo\PropertiesDemo\PropertiesDemo\bin\Debug\PropertiesDemo.pdb
+C:\Users\yashs\Desktop\Module-3\Demo\PropertiesDemo\PropertiesDemo\obj\Debug\PropertiesDemo.csproj.CoreCompileInputs.cache
+C:\Users\yashs\Desktop\Module-3\Demo\PropertiesDemo\PropertiesDemo\obj\Debug\PropertiesDemo.exe
+C:\Users\yashs\Desktop\Module-3\Demo\PropertiesDemo\PropertiesDemo\obj\Debug\PropertiesDemo.pdb

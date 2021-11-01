@@ -1,0 +1,2 @@
+C:\Users\yashs\Desktop\Module-3\Demo\EventDemo\EventDemo\obj\Debug\EventDemo.csproj.AssemblyReference.cache
+C:\Users\yashs\Desktop\Module-3\Demo\EventDemo\EventDemo\obj\Debug\EventDemo.csproj.CoreCompileInputs.cache
