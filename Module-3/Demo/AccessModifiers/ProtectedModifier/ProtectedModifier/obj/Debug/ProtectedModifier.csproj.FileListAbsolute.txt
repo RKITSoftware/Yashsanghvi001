@@ -1,0 +1,6 @@
+C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\ProtectedModifier\ProtectedModifier\bin\Debug\ProtectedModifier.exe.config
+C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\ProtectedModifier\ProtectedModifier\bin\Debug\ProtectedModifier.exe
+C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\ProtectedModifier\ProtectedModifier\bin\Debug\ProtectedModifier.pdb
+C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\ProtectedModifier\ProtectedModifier\obj\Debug\ProtectedModifier.csproj.CoreCompileInputs.cache
+C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\ProtectedModifier\ProtectedModifier\obj\Debug\ProtectedModifier.exe
+C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\ProtectedModifier\ProtectedModifier\obj\Debug\ProtectedModifier.pdb
