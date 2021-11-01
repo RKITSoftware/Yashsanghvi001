@@ -1,0 +1,7 @@
+C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\StaticClass\StaticClass\obj\Debug\StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\StaticClass\StaticClass\bin\Debug\StaticClass.exe.config
+C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\StaticClass\StaticClass\bin\Debug\StaticClass.exe
+C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\StaticClass\StaticClass\bin\Debug\StaticClass.pdb
+C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\StaticClass\StaticClass\obj\Debug\StaticClass.csproj.AssemblyReference.cache
+C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\StaticClass\StaticClass\obj\Debug\StaticClass.exe
+C:\Users\yashs\Desktop\Module-3\Demo\AccessModifiers\StaticClass\StaticClass\obj\Debug\StaticClass.pdb
