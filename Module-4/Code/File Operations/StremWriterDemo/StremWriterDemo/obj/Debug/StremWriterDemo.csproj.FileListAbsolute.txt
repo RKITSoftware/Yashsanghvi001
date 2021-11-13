@@ -1,0 +1,7 @@
+C:\Users\yashs\Desktop\Module-4\code\File Operations\StremWriterDemo\StremWriterDemo\bin\Debug\StremWriterDemo.exe.config
+C:\Users\yashs\Desktop\Module-4\code\File Operations\StremWriterDemo\StremWriterDemo\bin\Debug\StremWriterDemo.exe
+C:\Users\yashs\Desktop\Module-4\code\File Operations\StremWriterDemo\StremWriterDemo\bin\Debug\StremWriterDemo.pdb
+C:\Users\yashs\Desktop\Module-4\code\File Operations\StremWriterDemo\StremWriterDemo\obj\Debug\StremWriterDemo.csproj.CoreCompileInputs.cache
+C:\Users\yashs\Desktop\Module-4\code\File Operations\StremWriterDemo\StremWriterDemo\obj\Debug\StremWriterDemo.exe
+C:\Users\yashs\Desktop\Module-4\code\File Operations\StremWriterDemo\StremWriterDemo\obj\Debug\StremWriterDemo.pdb
+C:\Users\yashs\Desktop\Module-4\code\File Operations\StremWriterDemo\StremWriterDemo\obj\Debug\StremWriterDemo.csproj.AssemblyReference.cache

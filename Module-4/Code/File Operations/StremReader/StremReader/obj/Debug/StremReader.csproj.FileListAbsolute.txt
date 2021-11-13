@@ -1,0 +1,7 @@
+C:\Users\yashs\Desktop\Module-4\code\File Operations\StremReader\StremReader\obj\Debug\StremReader.csproj.CoreCompileInputs.cache
+C:\Users\yashs\Desktop\Module-4\code\File Operations\StremReader\StremReader\bin\Debug\StremReader.exe.config
+C:\Users\yashs\Desktop\Module-4\code\File Operations\StremReader\StremReader\bin\Debug\StremReader.exe
+C:\Users\yashs\Desktop\Module-4\code\File Operations\StremReader\StremReader\bin\Debug\StremReader.pdb
+C:\Users\yashs\Desktop\Module-4\code\File Operations\StremReader\StremReader\obj\Debug\StremReader.exe
+C:\Users\yashs\Desktop\Module-4\code\File Operations\StremReader\StremReader\obj\Debug\StremReader.pdb
+C:\Users\yashs\Desktop\Module-4\code\File Operations\StremReader\StremReader\obj\Debug\StremReader.csproj.AssemblyReference.cache

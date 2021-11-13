@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StremReader", "StremReader\StremReader.csproj", "{169CF5DA-8278-4261-A313-8D1FF5E2796B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{169CF5DA-8278-4261-A313-8D1FF5E2796B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169CF5DA-8278-4261-A313-8D1FF5E2796B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169CF5DA-8278-4261-A313-8D1FF5E2796B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169CF5DA-8278-4261-A313-8D1FF5E2796B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {462E4CFA-4F81-4642-AF9C-CDC2379ADD09}
+	EndGlobalSection
+EndGlobal
