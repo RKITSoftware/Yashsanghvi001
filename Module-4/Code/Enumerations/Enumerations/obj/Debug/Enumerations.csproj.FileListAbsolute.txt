@@ -1,0 +1,7 @@
+C:\Users\yashs\Desktop\Module-4\code\Enumerations\Enumerations\bin\Debug\Enumerations.exe.config
+C:\Users\yashs\Desktop\Module-4\code\Enumerations\Enumerations\bin\Debug\Enumerations.exe
+C:\Users\yashs\Desktop\Module-4\code\Enumerations\Enumerations\bin\Debug\Enumerations.pdb
+C:\Users\yashs\Desktop\Module-4\code\Enumerations\Enumerations\obj\Debug\Enumerations.csproj.AssemblyReference.cache
+C:\Users\yashs\Desktop\Module-4\code\Enumerations\Enumerations\obj\Debug\Enumerations.csproj.CoreCompileInputs.cache
+C:\Users\yashs\Desktop\Module-4\code\Enumerations\Enumerations\obj\Debug\Enumerations.exe
+C:\Users\yashs\Desktop\Module-4\code\Enumerations\Enumerations\obj\Debug\Enumerations.pdb
