@@ -1,0 +1,7 @@
+C:\Users\yashs\Desktop\Module-4\code\Exceptions\DividedByZero\DividedByZero\obj\Debug\DividedByZero.csproj.AssemblyReference.cache
+C:\Users\yashs\Desktop\Module-4\code\Exceptions\DividedByZero\DividedByZero\obj\Debug\DividedByZero.csproj.CoreCompileInputs.cache
+C:\Users\yashs\Desktop\Module-4\code\Exceptions\DividedByZero\DividedByZero\bin\Debug\DividedByZero.exe.config
+C:\Users\yashs\Desktop\Module-4\code\Exceptions\DividedByZero\DividedByZero\bin\Debug\DividedByZero.exe
+C:\Users\yashs\Desktop\Module-4\code\Exceptions\DividedByZero\DividedByZero\bin\Debug\DividedByZero.pdb
+C:\Users\yashs\Desktop\Module-4\code\Exceptions\DividedByZero\DividedByZero\obj\Debug\DividedByZero.exe
+C:\Users\yashs\Desktop\Module-4\code\Exceptions\DividedByZero\DividedByZero\obj\Debug\DividedByZero.pdb
