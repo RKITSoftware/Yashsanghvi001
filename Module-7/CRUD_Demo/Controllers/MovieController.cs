@@ -9,98 +9,42 @@ namespace CRUD_Demo.Controllers
 {
     public class MovieController : Controller
     {
-        // GET: Movies
-        public ActionResult Index()
+
+        database_DB objdatabase = new database_DB();
+
+        [Route("api/Getall")]
+        public List<Movie> GetAll()
         {
-            New_Movie objBLMovie = new New_Movie();
-            Movies movies = new Movies()
-            { 
-                movies = objBLMovie.listMovies() };
-            return View(movies);
+            return (objdatabase.selectAll());
         }
 
-        // GET: Movies/Details/5
-        public ActionResult Details(int id)
+        [Route("api/Get/{id}")]
+        public Movie Get(int id)
         {
-            return View();
+            return (objdatabase.getMovieById(id));
         }
 
-        // GET: Movies/Add
-        public ActionResult Add()
-        {
-            return View();
-        }
-
-=        [HttpPost]
-        public ActionResult Create(FormCollection collection)
-        {
-            try
-            {
-=
-                return RedirectToAction("Index");
-            }
-            catch
-            {
-                return View();
-            }
-        }
-
-        // GET: Movies/Edit/5
-        public ActionResult Edit(int id)
-        {
-            return View();
-        }
-
-=        [HttpPost]
-        public ActionResult Edit(int id, FormCollection collection)
-        {
-            try
-            {
-=
-                return RedirectToAction("Index");
-            }
-            catch
-            {
-                return View();
-            }
-        }
-
-        // GET: Movies/Delete/5
-        public ActionResult Delete(int id)
-        {
-            return View();
-        }
-
-        // POST: Movies/Delete/5
         [HttpPost]
-        public ActionResult Delete(int id, FormCollection collection)
+        [Route("api/Add")]
+        public void Add([FromBody] Movie WatchMovie)
         {
-            try
-            {
-                // TODO: Add delete logic here
-
-                return RedirectToAction("Index");
-            }
-            catch
-            {
-                return View();
-            }
-        }
-    }
-
-    internal class Movies
-    {
-        public Movies()
-        {
+            objdatabase.addMovie(WatchMovie);
         }
 
-        public object movies { get; set; }
-    }
-
-    internal class New_Movie
-    {
-        public New_Movie()
+        [HttpPost]
+        [Route("api/Update")]
+        public void Update([FromBody] Movie WatchMovie)
         {
+            objdatabase.update(WatchMovie);
         }
+
+        [Route("api/Delete/{id}")]
+        public void Delete(int id)
+        {
+            objdatabase.deleteMovie(id);
+        }
+
     }
 }
+
+
